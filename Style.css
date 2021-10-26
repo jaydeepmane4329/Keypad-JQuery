@@ -1,0 +1,20 @@
+body{
+    background:linear-gradient(rgb(231, 206, 206),rgb(228, 175, 175))
+}
+button{
+   display: inline-block;
+   height: 50px;
+   width: 80px;
+}
+input{
+    display: block;
+    width: 232px;
+    height: 40px;
+   background-color: rgb(202, 190, 190);
+   font-size: 20px;
+}
+#body{
+    display: flex;
+    justify-content: center;
+   margin-top: 200px;
+}
